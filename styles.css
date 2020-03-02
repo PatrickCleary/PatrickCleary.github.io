@@ -1,6 +1,15 @@
 #header {
+    flex:.1;
     color:black;
     flex-direction: row;
     
 
+} 
+#center {
+
+    flex:1;
+
+}
+body{
+    display: flex;
 }
