@@ -11,6 +11,16 @@
 
 
 }
+.Project {
+    flex:1
+}
+
+#projects {
+
+    flex-direction: row;
+    
+
+}
 body{
     display: flex;
     flex-direction: column;
