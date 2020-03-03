@@ -1,6 +1,7 @@
 #Header {
     height: 15%;
     color:black;
+    flex-direction: row;
     justify-content: flex-end;
     font-family: 'Times New Roman', Times, serif;
 
@@ -21,8 +22,6 @@
 
 }
 body {
-    display: flex;
-    flex-direction: row;
 }
 a {
     font-family: 'Times New Roman', Times, serif;
