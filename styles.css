@@ -11,7 +11,7 @@
 } 
 #center {
     width: 20%;
-
+    border-radius: 50%;
 
 }
 .Project {
@@ -27,6 +27,7 @@
 }
 body {
 
+    font-family: 'Times New Roman', Times, serif;
     border-width: 2px;
 
     border-color: beige;
