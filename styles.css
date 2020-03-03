@@ -1,5 +1,5 @@
 #header {
-    flex:.1;
+    height: 15%;
     color:black;
     flex-direction: row;
     justify-content: flex-end;
@@ -13,4 +13,7 @@
 }
 body{
     display: flex;
+}
+a {
+    font-family: Arial;
 }
