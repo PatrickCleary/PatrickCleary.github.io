@@ -13,6 +13,7 @@
 }
 body{
     display: flex;
+    flex-direction: column;
 }
 a {
     font-family: 'Times New Roman', Times, serif;
