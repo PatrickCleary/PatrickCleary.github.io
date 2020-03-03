@@ -2,7 +2,8 @@
     flex:.1;
     color:black;
     flex-direction: row;
-    
+    justify-content: flex-end;
+    font-family: Arial;
 
 } 
 #center {
