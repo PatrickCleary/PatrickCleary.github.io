@@ -17,13 +17,13 @@
 
 #projects {
 
-    flex-direction: row;
+    flex-direction: column;
     
 
 }
-body{
+body {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 a {
     font-family: 'Times New Roman', Times, serif;
