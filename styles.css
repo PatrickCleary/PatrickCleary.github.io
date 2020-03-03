@@ -22,11 +22,14 @@
 #projects {
 
     flex-direction: row;
-    just
     
 
 }
 body {
+
+    border-width: 2px;
+
+    border-color: beige;
 }
 a {
     font-family: 'Times New Roman', Times, serif;
