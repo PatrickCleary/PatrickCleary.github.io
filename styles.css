@@ -1,9 +1,9 @@
-#header {
+#Header {
     height: 15%;
     color:black;
     flex-direction: row;
     justify-content: flex-end;
-    font-family: Arial;
+    font-family: 'Times New Roman', Times, serif;
 
 } 
 #center {
